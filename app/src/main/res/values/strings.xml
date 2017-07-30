@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simples</string>
+
+    <!-- =============================== -->
+    <!--  app/activity examples strings  -->
+    <!-- =============================== -->
+    <string name="activity_network_retrofit">Network/Retrofit/NetworkClient</string>
+</resources>
